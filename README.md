@@ -1,2 +1,2 @@
 
-    sudo docker build -t shajalahamedcse/knex .
+    sudo docker build -t knexjs .
